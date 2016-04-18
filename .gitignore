@@ -1,0 +1,5 @@
+env/
+*.pyc
+.tox/
+*.swp
+refine_python.egg-info
